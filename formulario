@@ -3,9 +3,9 @@
 <title>STZ</title>
 <center><h1>STAY</h1></center>
 <center><table>
-<td><a href="index.html"><img src="Images/inicio.webp" width="40"></img></a></td>
-<td><a href="productos.html"><img src="Images/productos.jpeg" width="120"></img></a></td>
-<td><a href="contacto.html"><img src="Images/contacto.jpeg" width="120"></img></a></td>
+<td><a href="index.html"><img src="inicio.webp" width="40"></img></a></td>
+<td><a href="productos.html"><img src="productos.jpeg" width="120"></img></a></td>
+<td><a href="contacto.html"><img src="contacto.jpeg" width="120"></img></a></td>
 </table></center>
 <body bgcolor="FFB6C1">
 </head>

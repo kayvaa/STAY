@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<title>STZ</title>
+<img src="Images/logo.jpeg", widht="100", height="100"></img>
+<center><h1>STAY</h1></center>
+<center><table>
+<td><a href="index.html"><img src="Images/inicio.webp" width="40"></img></a></td>
+<td><a href="productos.html"><img src="Images/productos.jpeg" width="120"></img></a></td>
+<td><a href="contacto.html"><img src="Images/contacto.jpeg" width="120"></img></a></td>
+</table></center>
+</head>
+<hr>
+<body bgcolor="FFB6C1">
+<center><h1>Catálogo de peluches</h1></center>
+<center><table width="1000">
+<td><center><img src="Images/bbokari.jpg" width="140"></center><center><p>Bbokari con vestido y moño</p></center></img><td>
+<td><center><img src="Images/puppym.jpg" width="140"></center><center><p>PuupyM con atuendo de overol</p></center></img><td>
+<td><center><img src="Images/leebit.jpg" width="140"></center><center><p>Lebbit con atuendo de overol</p></center></img><td>
+<td><center><img src="Images/hanquokka.jpg" width="140"></center><center><p>Han Quokka con overol y lentes</p></center></img><td>
+</table></center></table></center>
+<center><table width="1000">
+<td><center><img src="Images/dwaekki.jpg" width="105"></center><center><p>Dwaekki con traje de tiburon</p></center></img><td>
+<td><center><img src="Images/jiniret.jpg" width="120"></center><center><p>Jiniret con atuendo y gorro</p></center></img><td>
+<td><center><img src="Images/wolfchan.jpg" width="120"></center><center><p>Wolf Chan con atuendo y banda</p></center></img><td>
+<td><center><img src="Images/foxiny.jpg" width="133"></center><center><p>FoxI.Ny con atuendo y sombrero</p></center></img><td>
+</table></center>
+</body>
+</html>

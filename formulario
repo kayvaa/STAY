@@ -1,0 +1,56 @@
+<html>
+<head>
+<title>STZ</title>
+<center><h1>STAY</h1></center>
+<center><table>
+<td><a href="index.html"><img src="Images/inicio.webp" width="40"></img></a></td>
+<td><a href="productos.html"><img src="Images/productos.jpeg" width="120"></img></a></td>
+<td><a href="contacto.html"><img src="Images/contacto.jpeg" width="120"></img></a></td>
+</table></center>
+<body bgcolor="FFB6C1">
+</head>
+<body>
+<table width="350" border="0" align="center">
+<tr></tr>
+<tr>
+<p><h1><center>Formulario</h1></center></p>
+<th bgcolor="FFB6C1" scope="row"><form id="form1" name="form1" method="post" action="">
+<p><label for="Nombre">Nombre</label>
+<input name="Nombre" type="text" id="Nombre" value="Escribe aquí tu nombre" size="25" /></p>
+<p><label for="Apellido">Apellido</label>
+<input name="Apellido" type="text" id="Apellido" value="Escribe aquí tu apellido" size="25" /></p>
+<p>&nbsp; </p>
+<table width="350 border="0">
+<tr>
+<th scope="row"> <label for="Genero">Género</label>
+<select name="Genero2" id="Genero">
+<option>Femenino</option>
+<option>Masculino</option>
+</select>
+</th>
+</tr>
+</table>
+<p><center>Edad:</center></p>
+<table width="350" border="0" align="center">
+<tr>
+<th scope="row">
+<label><input type="radio" name="Edad" value="opcion" id="Edad_10" />13-18</label>
+<br/>
+<label><input type="radio" name="Edad" value="opcion" id="Edad_11" />19-40</label>
+<br/>
+<label><input type="radio" name="Edad" value="opcion" id="Edad_12" />40-60</label>
+<br/>
+<label><input type="radio" name="Edad" value="opcion" id="Edad_13" />Más de 60 años</label>
+<br/>
+</th>
+</tr>
+</table>
+<p><label for="Comentario">Escribe un comentario:</label>
+<input name="Comentario" type="text" id="Comentario" value="Anota aquí tus comentarios" size="35" /></p>
+<tr>
+<th scope="row">
+<label><input type="radio" name="captcha" value="opcion" id="csi" />Acepto que todos los datos son verdad</label>
+</th>
+</tr>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<title>STZ</title>
+<img src="logo.jpeg", widht="100", height="100"></img>
+<center><h1>STAY</h1></center>
+<center><table>
+<td><a href="index.html"><img src="inicio.webp" width="40"></img></a></td>
+<td><a href="productos.html"><img src="productos.jpeg" width="120"></img></a></td>
+<td><a href="contacto.html"><img src="contacto.jpeg" width="120"></img></a></td>
+</table></center>
+</head>
+<hr>
+<body bgcolor="FFB6C1">
+<center><h1>Video de presentación</h1></center>
+<center><video controls width="210">
+<source src="video.mp4" type="video/mp4">
+</video></center>
+</body>
+</html>
